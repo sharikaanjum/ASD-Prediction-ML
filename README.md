@@ -72,7 +72,7 @@ autism-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/autism-prediction.git
+https://github.com/sharikaanjum/ASD-Prediction-ML
 cd autism-prediction
 ```
 
@@ -119,10 +119,11 @@ The model was trained and evaluated on the ASD screening dataset. Logistic Regre
 
 ## 👨‍💻 Author
 
-**Basheer** — Undergraduate Student, Data Science & Machine Learning  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/your-username)
+**Sharika Anjum** — Postgraduate Student, Data Science & Machine Learning  
+📧 sharika3004@gmail.com  
+🔗 https://www.linkedin.com/in/sharika-anjum-5b67712b5/
+
+🐙 https://github.com/sharikaanjum
 
 ---
 
