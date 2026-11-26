@@ -15,16 +15,10 @@ This was developed as an undergraduate final project, later upgraded with a full
 ## 🚀 Live Demo
 
 > Run locally using the steps below. Deployment to Streamlit Cloud coming soon.
+ -------
 
----
-
-## 🖼️ App Screenshot
-
-![Autism Prediction App](screenshot.png)
-
-> *Add a screenshot of your running app here by placing an image named `screenshot.png` in the project folder*
-
----
+[Autism Prediction App]
+<img width="949" height="519" alt="image" src="https://github.com/user-attachments/assets/6b188545-4b4d-4e67-8118-98de393de89d" />
 
 ## 🛠️ Tech Stack
 
